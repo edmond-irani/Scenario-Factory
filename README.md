@@ -3,7 +3,7 @@ This repository demonstrates the primary result for the publication **Scenario F
 
 ## Example videos:
 
-These videos show the optimized critical scenarios with the reachable set of the ego vehicle depicted red.
+These videos show the optimized critical scenarios with the reachable set of the ego vehicle depicted in red.
 
 <img src="https://github.com/edmond-irani/Scenario-Factory/blob/master/scenario_videos/Lazdynai_LT-35_3_T-1.gif" align="left" height="80%" width="80%" >
 <img src="https://github.com/edmond-irani/Scenario-Factory/blob/master/scenario_videos/Neuherberg_DE-38_6_T-1.gif" align="left" height="80%" width="80%" >
